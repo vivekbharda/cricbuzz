@@ -1,0 +1,11 @@
+@import "../node_modules/material-components-web/dist/material-components-web.min.css";
+
+
+.card .information{
+    background-color: #179071 !important;
+    padding: 10px;
+    border-radius: 5px;
+}
+.mdc-tab-bar{
+	padding: 10px;
+}
